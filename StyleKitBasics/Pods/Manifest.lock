@@ -1,0 +1,10 @@
+PODS:
+  - iOS-blur (0.0.5)
+
+DEPENDENCIES:
+  - iOS-blur
+
+SPEC CHECKSUMS:
+  iOS-blur: 8e4a4a2202b881e940869eca0c957808cbdf0a19
+
+COCOAPODS: 0.35.0
